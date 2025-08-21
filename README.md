@@ -6,13 +6,13 @@
     Eduva AI-Powered Learning Material Management System with Automated Audio/Video Lesson Generation for High School Teachers
 </p>
 
-- [Backend](./eduva-backend) → Authentication, APIs, Database
-- [Frontend - Student](./eduva-frontend) → Student portal
-- [Frontend - Admin](./eduva-admin) → System admin dashboard
-- [Frontend - School](./eduva-school) → School dashboard
-- [Frontend - Landing Page](./eduva-landing) → Landing Page
-- [AI Workers](./eduva-ai-generator) → AI lesson generation
-- [Mobile App](./eduva-mobile) → Mobile app for students
+- [Backend](https://github.com/tranduckhuy/eduva-backend) → Authentication, APIs, Database
+- [Frontend - Student](https://github.com/tranduckhuy/eduva-frontend) → Student portal
+- [Frontend - Admin](https://github.com/tranduckhuy/eduva-admin) → System admin dashboard
+- [Frontend - School](https://github.com/tranduckhuy/eduva/eduva-school) → School dashboard
+- [Frontend - Landing Page](https://github.com/qcode95/eduva-landing) → Landing Page
+- [AI Workers](https://github.com/tranduckhuy/eduva-ai-generator) → AI lesson generation
+- [Mobile App](https://github.com/TrongHuy0104/eduva-mobile) → Mobile app for students
 
 ## Architecture Overview
 
