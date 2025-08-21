@@ -1,0 +1,21 @@
+[submodule "eduva-backend"]
+	path = eduva-backend
+	url = https://github.com/tranduckhuy/eduva-backend.git
+[submodule "eduva-admin"]
+	path = eduva-admin
+	url = https://github.com/tranduckhuy/eduva-admin.git
+[submodule "eduva-school"]
+	path = eduva-school
+	url = https://github.com/tranduckhuy/eduva-school.git
+[submodule "eduva-frontend"]
+	path = eduva-frontend
+	url = https://github.com/tranduckhuy/eduva-frontend.git
+[submodule "eduva-ai-generator"]
+	path = eduva-ai-generator
+	url = https://github.com/tranduckhuy/eduva-ai-generator.git
+[submodule "eduva-landing"]
+	path = eduva-landing
+	url = https://github.com/qcode95/eduva-landing.git
+[submodule "eduva-mobile"]
+	path = eduva-mobile
+	url = https://github.com/TrongHuy0104/eduva-mobile.git
